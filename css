@@ -1,0 +1,23 @@
+/* float & clear */
+
+.clearfix {
+	clear: both;
+}
+/* add styled <div> to bottom */
+
+.poke-img {
+cursor: pointer;
+transition: ease-in-out }
+
+.poke-img:hover {
+transform:scale(1.5) }
+
+/* use absolute positioning inside of a relative element (and use %) */
+
+/* this wraps odd sized images in a set size crop: */
+.image {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
