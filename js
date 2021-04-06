@@ -12,7 +12,7 @@ import request from 'superagent';
 <NavLink exact activeClassName="active" from="/search" />;
 
 // you can use
-export default withRouter(class SomeClass)
+export default withRouter(class SomeClass {});
 // when defining class
 
 // SORTING

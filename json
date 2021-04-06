@@ -1,12 +1,13 @@
 // allow more quote stuff eslint: 
-    "quotes": [
+{"quotes": [
       "error",
       "single",
       {
         "avoidEscape": true,
         "allowTemplateLiterals": true
       }
-    ],
+    ]
+}
 
 // prettier.json
 {
