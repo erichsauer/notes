@@ -1,5 +1,8 @@
 npm --init
 npm i parcel
-grab scripts from alchemy ts boostrap
+grab scripts from alchemy ts bootstrap
 
 you don't push the dist!
+
+write backend code in this order
+sql -> models -> services -> controllers -> app.js
