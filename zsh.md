@@ -22,3 +22,12 @@ npm i superagent
 <!-- Create new project! -->
 <!-- Make repo first, then run -->
 npm init @alchemycodelab/app@latest
+
+<!-- show aliases -->
+alias
+<!-- git add -A -->
+gaa
+<!-- git commit -m -->
+gcmsg
+<!-- git push origin (branch) -->
+ggpush
